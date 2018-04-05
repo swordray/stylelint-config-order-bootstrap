@@ -1,0 +1,9 @@
+{
+  "name": "stylelint-config-order-bootstrap",
+  "version": "1.0.0",
+  "description": "A stylelint-order config extracted from Bootstrap",
+  "main": "index.js",
+  "repository": "https://github.com/swordray/stylelint-config-order-bootstrap",
+  "author": "Jianqiu Xiao <swordray@gmail.com>",
+  "license": "MIT"
+}
